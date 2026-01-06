@@ -1,0 +1,46 @@
+# Backend (Laravel)
+portfolio-backend/vendor/
+portfolio-backend/.env
+portfolio-backend/.env.backup
+portfolio-backend/node_modules/
+portfolio-backend/storage/*.key
+portfolio-backend/storage/framework/cache/*
+portfolio-backend/storage/framework/sessions/*
+portfolio-backend/storage/framework/views/*
+portfolio-backend/storage/logs/
+portfolio-backend/bootstrap/cache/*
+portfolio-backend/public/storage
+portfolio-backend/public/hot
+portfolio-backend/.phpunit.result.cache
+portfolio-backend/auth.json
+portfolio-backend/npm-debug.log
+portfolio-backend/yarn-error.log
+
+# Frontend (React/Vite)
+portfolio-frontend/node_modules/
+portfolio-frontend/dist/
+portfolio-frontend/build/
+portfolio-frontend/.env
+portfolio-frontend/.env.local
+portfolio-frontend/.env.production
+portfolio-frontend/.env.development
+portfolio-frontend/.vite/
+portfolio-frontend/npm-debug.log
+portfolio-frontend/yarn-error.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# General
+*.log
+.cache/
