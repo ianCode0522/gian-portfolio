@@ -2,7 +2,6 @@
 
 A modern, full-stack personal portfolio website with dynamic content management system built with React, TypeScript, Laravel, and MySQL.
 
-![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Screenshot)
 
 ## 🌟 Features
 
